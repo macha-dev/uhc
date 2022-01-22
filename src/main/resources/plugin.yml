@@ -1,4 +1,4 @@
 name: uhc
 version: 1.0
 author: wimble
-main: uk.wimble.uhc.Main
+main: uk.wimble.uhc.UhcMain
